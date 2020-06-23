@@ -1,3 +1,4 @@
 node_modules
 main.txt
 .DS_Store
+client/build/
